@@ -15,7 +15,7 @@ library(httr)
 library(data.table)
 library(igraph)
 # Set your directory for the project
-# setwd("/Users/Yaqian/Desktop/Lab1")
+# setwd("/Users/dir")
 
 ######################################################################################
 #
